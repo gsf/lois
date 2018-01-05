@@ -1,0 +1,33 @@
+html {
+  font-family: sans-serif;
+}
+body {
+  padding: 10px;
+}
+h1 {
+  font-family: 'Codystar', sans-serif;
+  margin: 0;
+}
+a {
+  color: #d77;
+  text-decoration: none;
+}
+a:hover {
+  border-bottom: 1px dotted #f99;
+}
+img {
+  border: none;
+}
+.container {
+  border: 14px dotted #f99;
+  padding: 10px;
+}
+.img {
+  clear: both;
+  float: right;
+  padding: 0 0 0 20px;
+}
+.txt {
+  width: 30em;
+  word-wrap: break-word;
+}
